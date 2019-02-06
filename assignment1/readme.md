@@ -18,6 +18,10 @@ This directory contains the Architectural Design Records
 
 This directory contains the files necessary to build the Docker container for the mysql database.
 
-### apache
+### webserver
 
-This directory contains the files necessary to build the Apache container for the web server.
+This directory contains the files necessary to build the container for the web server and display the data.
+
+#### action
+
+This directory, inside of the web server directory, connect to the database and performs the CRUD operations.

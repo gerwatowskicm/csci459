@@ -1,9 +1,9 @@
 * **Title**: Choice of Apache
 
-* **Status**: Accepted
+* **Status**: Removed
 
 * **Context**: A web server is needed for the application environment.
 
-* **Decision**: I have used Apache in previous classes and I am comfortable using it.
+* **Decision**: I am no longer using Apache for this project because I was as comfortable with it as I thought.
 
-* **Consequences**: Apache is fast, reliable, and one of the most widely used web servers, making it easier to seek assistance online.
+* **Consequences**: I have switched to using only HTML, PHP, and MySql.
